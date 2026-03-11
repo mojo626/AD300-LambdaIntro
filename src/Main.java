@@ -16,5 +16,7 @@ class Main {
         ListOperations.run();
 
         BuiltIn.run();
+
+        Advanced.run();
     }
 }
